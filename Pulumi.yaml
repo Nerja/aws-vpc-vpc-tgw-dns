@@ -1,0 +1,3 @@
+name: aws-vpc-vpc-tgw-dns
+runtime: go
+description: A minimal AWS Go Pulumi program
